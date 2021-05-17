@@ -1,7 +1,8 @@
 # Roado
 # Install dependencies for server 
-npm install
-#Install express
+"npm install"
+
+# Install express
 npm install express
 
 # Install dependencies for client
